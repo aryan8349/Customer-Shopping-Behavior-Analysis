@@ -64,6 +64,6 @@ End-to-end data analytics project analyzing customer shopping behavior to extrac
 2. Install dependencies:
    ```bash
    pip install pandas numpy psycopg2
-3.Run Python scripts for cleaning and EDA
-4.Execute SQL queries in PostgreSQL
+3.Run Python scripts for cleaning and EDA    
+4.Execute SQL queries in PostgreSQL    
 5.Open Power BI dashboard file (.pbix)
