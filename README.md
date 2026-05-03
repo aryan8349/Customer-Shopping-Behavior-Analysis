@@ -67,3 +67,9 @@ End-to-end data analytics project analyzing customer shopping behavior to extrac
 3.Run Python scripts for cleaning and EDA    
 4.Execute SQL queries in PostgreSQL    
 5.Open Power BI dashboard file (.pbix)
+
+
+
+### Dashboard
+<img width="1437" height="787" alt="Screenshot 2026-05-03 135529" src="https://github.com/user-attachments/assets/cc858044-c1b5-4b88-9f61-d2c01a91f6f5" />
+
