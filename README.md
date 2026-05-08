@@ -58,25 +58,62 @@ Key queries built:
 
 ## Key Findings
 
-- Customers aged 25–34 contribute ~38% of total revenue 
-  despite being 27% of the dataset
-- Discount users do not spend significantly more — 
-  average order value difference is under 4%
-- Clothing and accessories drive 60%+ of repeat purchases
-- Free shipping correlates with higher review ratings 
-  across all categories
+**Revenue by Gender**
+- Male customers contribute 67.74% of total revenue 
+  ($157,890) vs Female 32.26% ($75,191)
+- Significant gender skew — male segment is 2x 
+  the revenue of female segment
+
+**Revenue by Age Group**
+- Nearly uniform distribution across all age groups:
+  Young Adults (26.66%), Middle-Aged (25.40%), 
+  Adult (24.02%), Senior (23.92%)
+- Age is not a reliable revenue differentiator 
+  in this dataset
+
+**Discount Effectiveness**
+- Avg order value without discount: $60.13 (2,223 customers)
+- Avg order value with discount: $59.28 (1,677 customers)
+- $0.85 difference — discounts have no meaningful 
+  impact on purchase amount
+
+**Category Performance**
+- Clothing leads transaction volume: 44.54% (1,737 orders)
+- Accessories: 31.79% (1,240 orders)
+- Footwear: 15.36% (599 orders)
+- Outerwear: 8.31% (324 orders)
+- Accessories has the highest repeat purchase rate 
+  (avg 25.73 previous purchases) despite lower 
+  transaction volume than Clothing (25.20)
+
+**Shipping Type vs Customer Satisfaction**
+- Standard shipping scores highest (3.82/5.00)
+- All shipping types cluster between 3.71–3.82 — 
+  difference is minimal (0.11 range)
+- Shipping type is not a strong driver of 
+  review ratings in this dataset
 
 ---
 
 ## Business Recommendations
 
-1. Focus retention budget on 25–34 age segment — 
-   highest ROI per customer
-2. Reduce blanket discounting — data shows minimal 
-   impact on order value
-3. Prioritize free shipping offers for clothing category 
-   to improve satisfaction scores
-
+1. **Gender targeting:** Male segment drives 2x revenue —
+   prioritize retention and upsell strategies 
+   for male customers; investigate why female 
+   engagement is lower
+2. **Discount strategy:** Blanket discounts show zero 
+   ROI on order value — replace with loyalty-based 
+   rewards or category-specific promotions
+3. **Accessories opportunity:** Highest repeat purchase 
+   rate but only 31.79% of transactions — increase 
+   Accessories visibility to convert high loyalty 
+   into higher revenue share
+4. **Age segmentation:** Uniform revenue distribution 
+   means age-based campaigns will underperform — 
+   shift to behavioral segmentation instead
+5. **Shipping investment:** No shipping type meaningfully 
+   improves satisfaction scores — avoid over-investing 
+   in premium shipping as a satisfaction lever
 ---
 
 ## Repository Structure
