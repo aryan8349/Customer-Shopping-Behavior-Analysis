@@ -117,13 +117,13 @@ Key queries built:
 ---
 
 ## Repository Structure
-├── Data/               # Raw and cleaned datasets
-├── Notebook/           # Python EDA and cleaning
-├── Sql/                # PostgreSQL queries
-├── Dashboard/          # Power BI .pbix file
-├── Report/             # Final analysis report
-├── Presentation/       # Project slides
-└── Problem Statement/  # Original problem definition
+├── Data/               # Raw and cleaned datasets  
+├── Notebook/           # Python EDA and cleaning  
+├── Sql/                # PostgreSQL queries  
+├── Dashboard/          # Power BI .pbix file  
+├── Report/             # Final analysis report  
+├── Presentation/       # Project slides  
+└── Problem Statement/  # Original problem definition  
 
 ---
 
